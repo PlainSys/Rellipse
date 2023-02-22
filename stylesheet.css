@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+a {
+    font-size: 30px;
+}
+
+li {
+    color: aliceblue;
+    font-size: 25px;
+}
+
+img {
+    border: 5px solid #ff0000;
+}
+
+div {
+    min-height: 100%;
+    height: auto;
+    background-color: #000000;
+    max-width: 900px;
+    width: 1170px;
+}
